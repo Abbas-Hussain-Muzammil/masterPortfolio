@@ -18,7 +18,7 @@ export default function Footer(props) {
          <img src="assets/icons/up arrow.png" 
          alt="scroll-up"
          class="socicon up-arrow"
-         /
+         />
     </div>
 
 
