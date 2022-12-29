@@ -15,7 +15,7 @@ export default function Footer(props) {
       </Fade>
 
     <i class="scroll-up" id="scroll-up">
-         <img src="assets/icons/up arrow.png" 
+         <img src="src/assests/fonts/up arrow.png" 
          alt="scroll-up"
          class="socicon up-arrow"
          />
