@@ -13,6 +13,15 @@ export default function Footer(props) {
         </p>
         {/* <ToggleSwitch theme={props.theme} onToggle={props.onToggle}/> */}
       </Fade>
+
+    <i class="scroll-up" id="scroll-up">
+         <img src="assets/icons/up arrow.png" 
+         alt="scroll-up"
+         class="socicon up-arrow"
+         /
     </div>
+
+
+
   );
 }
